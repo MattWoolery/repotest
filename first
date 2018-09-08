@@ -1,0 +1,2 @@
+var newVar ="Hello World";
+Console.log(newVar);
